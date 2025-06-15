@@ -15,5 +15,4 @@ a comp sci student who likes to watch anime
 <br><br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](http://linkedin.com/in/idkneeraj)
-[![](https://img.shields.io/badge/mastodon-6364ff)]()
 </div>
