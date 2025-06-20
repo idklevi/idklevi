@@ -4,7 +4,7 @@
 <br><br>
 <pre>
     💼 CS Major 
-    💻 System programming languages • DevOps 
+    💻 System programming languages • DevOps • GameDev
     📖 Software architecture • Distributed systems
     🎮 Music • Games • Anime • Code • Art
     🧙‍♂️ I use Arch BTW
