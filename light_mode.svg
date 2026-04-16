@@ -8,42 +8,42 @@ font-display: swap;
 -webkit-size-adjust: 109%;
 size-adjust: 109%;
 }
-.key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.addColor {fill: #3fb950;}
-.delColor {fill: #f85149;}
-.cc {fill: #616e7f;}
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.addColor {fill: #1a7f37;}
+.delColor {fill: #cf222e;}
+.cc {fill: #c2cfde;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="985px" height="530px" fill="#161b22" rx="15"/>
-<text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">             .+                            </tspan>
-<tspan x="15" y="50">          #{$mQ$%$$h[=                    </tspan>
-<tspan x="15" y="70">         [{}$Q`  (],  v$k`                </tspan>
-<tspan x="15" y="90">        };,.   :q ,:;Jdl;B&amp;               </tspan>
-<tspan x="15" y="110">       +, - '. v}+0\/ zp(,U[O             </tspan>
-<tspan x="15" y="130">     m$]:|  .         Z ,Lv!}|'           </tspan>
-<tspan x="15" y="150">   qmpC:!  =0QCCQ$$&amp; OU  \:  =\  ,        </tspan>
-<tspan x="15" y="170">   k ?l;= $$$$$$$$$$$     . +:   -        </tspan>
-<tspan x="15" y="190">  q$, #b o$$$$$$$$$$$$   ~!(]|-` rv       </tspan>
-<tspan x="15" y="210">  i?Ql-  $$$$$$$$$$$&amp;h$B]  :' .  ?}       </tspan>
-<tspan x="15" y="230">  k/  W$!$$$(/a$$@$$,kvC@r {  |.! [       </tspan>
-<tspan x="15" y="250">  r,!m$Ui$8  L$$$$[w$ ?I|$$o +l;  :       </tspan>
-<tspan x="15" y="270">   MQ $ l$&amp;$$$$$8M8B%&amp;h&amp;m$],      -:=     </tspan>
-<tspan x="15" y="290">   ?  r$$$$$$$$$$q$$$$$$$$(t `,--- ,!I    </tspan>
-<tspan x="15" y="310">    C  Z$$$$$$$$M$$$$$$$$xLv  ~~   |      </tspan>
-<tspan x="15" y="330">    i! h$$$$$$$: |t#Z%$BQOU?r  --..!      </tspan>
-<tspan x="15" y="350">     \ $$8$$$$$$$$$$%&amp;MazdU(tZU, -!}.     </tspan>
-<tspan x="15" y="370">     =I $$$lw$$$$$v  iBZUam,m$  '.,f      </tspan>
-<tspan x="15" y="390">      ;}`$$$$$mvi]x$$bmOhaC. !=  Q        </tspan>
-<tspan x="15" y="410">        ;m$$$$$$$$#h0CmhhOQ; ;]r          </tspan>
-<tspan x="15" y="430">           $$$$$ZZO*Moak0Uh:'++=          </tspan>
-<tspan x="15" y="450">           $$$$#M&amp;kaakkmC0*~.|!           </tspan>
-<tspan x="15" y="470">           $$@$W&amp;&amp;obkd0C0w8=~~            </tspan>
-<tspan x="15" y="490">           h$$$$*lrZqZO0qbBt              </tspan>
-<tspan x="15" y="510">           r$$$$ao*hkq0mkq&amp;#              </tspan>
+<rect width="985px" height="530px" fill="#f6f8fa" rx="15"/>
+<text x="15" y="30" fill="#24292f" class="ascii">
+<tspan x="15" y="30">           ..:-.:::::                      </tspan>
+<tspan x="15" y="50">          ...::........::.:                </tspan>
+<tspan x="15" y="70">         .       . .  .::.::.              </tspan>
+<tspan x="15" y="90">        -:      .    ..:.:......           </tspan>
+<tspan x="15" y="110">     ::-:..            .  ..               </tspan>
+<tspan x="15" y="130">   ..::..   -=+++=++=:.           .        </tspan>
+<tspan x="15" y="150">    .:  .. =+++****+++:      .    ..       </tspan>
+<tspan x="15" y="170">    ..... -++++***+=---::.                 </tspan>
+<tspan x="15" y="190">   ::. .-:=*+-:-===+=:--:-.                </tspan>
+<tspan x="15" y="210">   ....:=:=-=:-=++-:-+::::=:. .            </tspan>
+<tspan x="15" y="230">    :...-:=+=++++=========-:.              </tspan>
+<tspan x="15" y="250">     :. .=*+*++++====++=+-::.              </tspan>
+<tspan x="15" y="270">     .:.:=++=+==:...------::.       .      </tspan>
+<tspan x="15" y="290">      ..:=======+=-------:::.:..   ...     </tspan>
+<tspan x="15" y="310">       :..====++++=-::----:. .    ...      </tspan>
+<tspan x="15" y="330">        :..======-===-:---:.   ...         </tspan>
+<tspan x="15" y="350">         . .===+==-------:::   ..          </tspan>
+<tspan x="15" y="370">           ..===---------:::   .           </tspan>
+<tspan x="15" y="390">           .:===--------::-:....           </tspan>
+<tspan x="15" y="410">            ======-:---:----:.             </tspan>
+<tspan x="15" y="430">             ====-------------             </tspan>
+<tspan x="15" y="450">            %+===========-------=          </tspan>
+<tspan x="15" y="470">         %%%%++================+*%%%##     </tspan>
+<tspan x="15" y="490">  %%%%%%%%%%++=============+*%%%%%%%%%#  </tspan>
+<tspan x="15" y="510">                                           </tspan>
 </text>
-<text x="390" y="30" fill="#c9d1d9">
+<text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">idklevi</tspan> ----------------------------------------------------
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">Windows 11, Android 16, Arch Linux</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ...................... </tspan><tspan class="value" id="age_data">22 years, 5 months, 29 days</tspan>
