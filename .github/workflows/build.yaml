@@ -40,9 +40,10 @@ jobs:
 
       - name: Commit changes
         run: |
-          git add .
-          git diff
-          git config --global user.email "github-actions-bot@idklevi.github.io"
-          git config --global user.name "idklevi/GitHub-Actions-Bot"
-          git commit -m "Updated README" -a || echo "No changes to commit"
-          git push
+           git config --global user.email "github-actions-bot@idklevi.github.io"
+           git config --global user.name "idklevi/GitHub-Actions-Bot"
+
+           git pull --rebase
+            git add .
+           git commit -m "Updated README" -a || echo "No changes to commit"
+            git push
