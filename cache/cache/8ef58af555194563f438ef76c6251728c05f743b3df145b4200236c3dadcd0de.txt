@@ -1,0 +1,7 @@
+This is a cache file.
+This line is part of the comment block.
+This line is part of the comment block.
+This line is part of the comment block.
+This line is part of the comment block.
+This line is part of the comment block.
+This line is part of the comment block.
